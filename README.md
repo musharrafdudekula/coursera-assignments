@@ -9,4 +9,4 @@ This repository contains my solutions to the assignments of the Coursera course
 
 * [Assignment description](https://github.com/musharrafdudekula/coursera-assignments/blob/gh-pages/descriptions/Assignment-2/assignment2.md)
 * Deadline: March 31, 11:59 PM IST
-* [Solution](file:///C:/Users/USER/coursera-assignments/module2-solution/index.html)
+* [Solution](https://musharrafdudekula.github.io/coursera-assignments/module2-solution/)
