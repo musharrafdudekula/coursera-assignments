@@ -4,53 +4,31 @@
 }
 
 body {
-	background-color: black;
+	background-color: #ffcccc;
 }
 
 h1 {
-	text-shadow: 1px 1px red;
+	text-shadow: 1px 1px white;
 	text-align: center;
-	color: whitesmoke;
-}
-
-a:link, a:visited {
-	text-decoration: none;
-	color: white;
-	background-color: red;
-	border: 1px solid red;
-	display: block;
-	width: 150px;
-	margin: 1px;
-	text-align: center;
+	color: black;
 }
 
 section {
-	border: 1px solid #ff0000;
-	color: white;
+	background-color: white;
+	border: 2px solid black;
+	color: black;
 	margin: 10px;
 
 }
 
-.tony {
-	color: red;
-}
-
-.steve {
-	color: blue;
-}
-
-.odinson {
-	color: #00ffff;
-}
-
 section > h2 {
 	float: right;
-	border-bottom: 1px solid red;
-	border-left: 1px solid red;
+	border-bottom: 2px solid black;
+	border-left: 2px solid black;
 	margin: 0;
 	width: 230px;
 	text-align: center;
-	font-style: times;
+	font-style: Times;
 	font-size: 24px;
 	font-weight: bold;
 	height: 45px;
@@ -58,18 +36,16 @@ section > h2 {
 }
 
 section.ironman > h2 {
-	text-shadow: 1px 1px black;
-	background-color: gold;
+	background-color: #ff4d4d;
 }
 
 section.captain > h2 {
-	text-shadow: 1px 1px black;
-	background-color: orangered;
+	background-color: #ff0000;
 }
 
 section.thor > h2 {
-	text-shadow: 1px 1px black;
-	background-color: silver;
+	color: white;
+	background-color: #990000;
 }
 
 section > p {
