@@ -10,3 +10,9 @@ This repository contains my solutions to the assignments of the Coursera course
 * [Assignment description](https://github.com/musharrafdudekula/coursera-assignments/blob/gh-pages/descriptions/Assignment-2/assignment2.md)
 * Deadline: March 31, 11:59 PM IST
 * [Solution](https://musharrafdudekula.github.io/coursera-assignments/module2-solution/)
+
+### Module 3
+
+* [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
+* Deadline: March 26, 11:59 PM IST
+* [Solution]()
