@@ -15,5 +15,5 @@ This repository contains my solutions to the assignments of the Coursera course
 
 * [Assignment description](https://github.com/musharrafdudekula/coursera-assignments/blob/gh-pages/descriptions/Assignment-3/assignment3.md)
 * Deadline: April 16, 11:59 PM IST
-* [Basic Solution (without optional parts)]()
+* [Basic Solution (without optional parts)](https://musharrafdudekula.github.io/coursera-assignments/module3-solution/)
 * [Full Solution (including optional parts)]()
