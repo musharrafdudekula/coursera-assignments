@@ -5,7 +5,7 @@ body {
 	font-size: 16px;
 }
 
-/** HEADER **/
+/* HEADER */
 
 #header-nav {
 	background-color: #B6E1E7;
@@ -59,7 +59,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-	border: 1px solid #0263d1;
+	border: 1px solid #fae7a5;
 }
 
 /** END HEADER **/
@@ -84,12 +84,10 @@ body {
 	margin-bottom: 1em;
 }
 
-#chicken-tile, #beef-tile, #sushi-tile {
-	width: 100%;
-	padding: 20px;
+#main-section {
 	background-color: #F9B872;
-	margin-bottom: 60px;
-	box-shadow: 0 0 80px #b36b00;
+	box-shadow: 0 0 50px #b36b00;
+	padding: 30px;
 }
 
 /** END HOME PAGE **/
