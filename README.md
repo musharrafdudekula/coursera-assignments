@@ -17,3 +17,9 @@ This repository contains my solutions to the assignments of the Coursera course
 * Deadline: April 16, 11:59 PM IST
 * [Basic Solution (without optional parts)](https://musharrafdudekula.github.io/coursera-assignments/module3-solution/index_basic.html)
 * [Full Solution (including optional parts)](https://musharrafdudekula.github.io/coursera-assignments/module3-solution/)
+
+### Module 4
+
+* [Assignment description]()
+* Deadline: April 23, 11:59 PM IST
+* [Solution]()
