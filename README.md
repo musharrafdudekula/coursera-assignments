@@ -20,6 +20,6 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 4
 
-* [Assignment description]()
+* [Assignment description](https://github.com/musharrafdudekula/coursera-assignments/blob/gh-pages/descriptions/Assignment-4/assignment4.md)
 * Deadline: April 23, 11:59 PM IST
 * [Solution]()
